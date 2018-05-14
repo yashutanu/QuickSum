@@ -12,5 +12,10 @@ for extracting the key phrases from the news article and give it as key points t
 #we need to install all required python libraries in tensorflow
   $conda install nltk
   $conda install scikit-learn
+#how to run files
+#command line interface
+  $python initial.py <directorypathname> <methodname>
+
+  
   
   
